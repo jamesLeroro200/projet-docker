@@ -2,4 +2,4 @@
 FROM nginx:alpine
 COPY static /usr/share/nginx/html
 LABEL maintainer = "usha.mandya@docker.com"
-LABEL contributor="wilfrieddang@yahoo.com"
+LABEL contributor="wilfried.dang@sesame.com.tn"
